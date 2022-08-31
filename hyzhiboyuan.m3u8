@@ -3,3 +3,5 @@
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1,云南国际
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+#EXTINF:-1,CCTV8电视剧
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
