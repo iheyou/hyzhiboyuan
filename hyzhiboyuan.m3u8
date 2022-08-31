@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,安徽·铜陵公共
 http://dstpush1.retalltech.com/app/stream2.m3u8
+#EXTINF:-1,云南国际
+http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
