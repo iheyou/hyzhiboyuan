@@ -2,6 +2,16 @@
 #EXTINF:-1,安徽·铜陵公共
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1,云南国际
+#EXTINF:-1,CCTV1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1,CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 #EXTINF:-1,CCTV8电视剧
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
+#EXTINF:-1,CCTV6电影
+http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
